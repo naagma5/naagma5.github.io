@@ -5,11 +5,42 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+
+<div style="padding: 3em 1em; background:rgba(254,246,232,1); border-radius: 4px;">
+  <h1 class="text-center"> Mind Blend Cafe 🌱 </h1>
+  <div class="line text-center"></div><br><br>
+  <h5 class="text-center">Explore, connect, evolve</h5>
+</div>
+<br>
+<div class="home-page-grid-containers">
+	<div> 
+    <img class="home-page-logo"  src="assets/img/MB_Cafe_LOGO_nobkgd.png">
+  </div>
+  <div>
+	  <h2>Welcome to my digital thought cafe </h2>
+    <h4>Get cozy with me as I explore ideas, connect concepts, and evolve my thoughts into insights!</h4>
+  </div>
+</div>
+
+<br>
+<div class="home-page-grid-containers">
+  <div>
+      <img src="assets/img/coffee_beans.jpg">
+      <h2><a href="#">Blend</a></h2>
+			<h5>Mixing and matching thoughts, feelings, experiences, and ideas</h5>
+  </div>
+  <div>
+      <img src="assets/img/coffee_brew.jpg">
+      <h2><a href="#">Brew</a></h2>
+    <h5>Extracting insights from different "Blends"</h5>
+  </div>
+</div>
+
+
+
+
+
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 

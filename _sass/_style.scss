@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+
 $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+$font-family: 'Amatic SC';
+$font-family-og: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+
 
 body {
   box-sizing: content-box;
@@ -17,6 +22,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
+  background-color: #e8d5b7;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -75,10 +81,34 @@ h6 {
   padding-bottom: 0;
 }
 
+h1 { font-family: 'Amatic SC', bold;
+  font-weight: 900;
+  font-size: 72px;
+  text-align: center;  
+}  
+
+h2 { font-family: 'Amatic SC', bold;
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+}
+
+h4 { font-family: 'Amatic SC', bold;
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+}
+
+h5 { font-family: 'Amatic SC', bold;
+  font-weight: 500;
+  font-size: 26px;
+  text-align: center;
+}
+
 a {
   transition: background 300ms;
   padding: 0 0.1em;
-  text-decoration: none;
+  text-decoration: underline #FFB43C ;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
@@ -90,7 +120,7 @@ a {
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #aaaaaa;
+    color: #154604;
   }
   &.internal-link:after,
   &.footnote:after,
@@ -143,4 +173,31 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+
+
+/* NT Add-ons */
+.line {
+  padding-bottom: 10px;
+  border-bottom: 15px solid #FFB43C;
+  width: 150px;
+  margin: auto;
+}
+
+.underline-color {
+  color: #FFB43C;
+  font-weight: 500px;
+}
+
+.home-page-logo {
+  height: 211px;
+  width: 211px;
+}
+
+.home-page-grid-containers {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 40px;
+  align-content: center;
 }
