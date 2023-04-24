@@ -5,7 +5,7 @@ $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
+$color-box-background: rgba(254,246,232,1);
 $border-radius: 4px;
 $font-family: 'Amatic SC';
 $font-family-og: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
@@ -128,7 +128,7 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: underline #FFB43C ;
-  border-bottom: 1px solid $color-border;
+  /*border-bottom: 1px solid $color-border;*/
   color: $color-primary;
   &:hover {
     color: black !important;
