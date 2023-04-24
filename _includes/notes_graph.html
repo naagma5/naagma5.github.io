@@ -31,7 +31,7 @@
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
+    background: rgba(254,246,232,1);
     border-radius: 4px;
     height: auto;
   }
@@ -176,12 +176,12 @@
         const graphWrapper = document.getElementById('graph-wrapper')
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-        element.setAttribute("height", window.innerHeight * 0.8);
+        element.setAttribute("height", window.innerHeight * 0.5);
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
           element.setAttribute("width", window.innerWidth);
-          element.setAttribute("height", window.innerHeight);
+          element.setAttribute("height", window.innerHeight * 0.5);
         };
 
         window.onresize = reportWindowSize;

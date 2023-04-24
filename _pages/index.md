@@ -7,58 +7,71 @@ permalink: /
 
 
 
-<div style="padding: 3em 1em; background:rgba(254,246,232,1); border-radius: 4px;">
-  <h1 class="text-center"> Mind Blend Cafe 🌱 </h1>
-  <div class="line text-center"></div><br><br>
-  <h5 class="text-center">Explore, connect, evolve</h5>
+<div style="padding: 1em; background:rgba(254,246,232,1); border-radius: 4px;">
+  <div id="notes-entry-container-home">
+    <div> 
+      <img class="home-page-logo"  src="assets/img/MB_Cafe_LOGO_nobkgd.png">
+    </div>
+    <div>
+      <h3> Welcome to </h3>
+      <h1> Mind Blend Cafe  </h1>
+      <div class="line"></div>
+      <h5>Naagma's digital thought cafe 🌱</h5>
+    </div>
+    <div>
+      <h1></h1>
+    </div>
+  </div>
 </div>
 <br>
-<div class="home-page-grid-containers">
-	<div> 
-    <img class="home-page-logo"  src="assets/img/MB_Cafe_LOGO_nobkgd.png">
-  </div>
-  <div>
-	  <h2>Welcome to my digital thought cafe </h2>
-    <h4>Get cozy with me as I explore ideas, connect concepts, and evolve my thoughts into insights!</h4>
+
+<div class="line-bottom"></div>
+
+#### *Get cozy with me as I explore, connect, and evolve my ideas into insights*
+
+
+
+<div>
+  <br>
+  <div id="notes-entry-container-home">
+    <side>
+        <h3 class="underline-color-h">Today</h3>
+        <h5 class= "padding-bb"> Vibes </h5>
+        <img class= "img-blend" src="assets/img/today.jpg"><br>
+        <p> <strong> Ambience: </strong> </p>
+        <iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/kxJ48rVaN3M"></iframe>
+        <p> <strong>Playlist: </strong></p>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2e92nJZ9oYznMvGfjf5P84?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      </side>
+    <content>
+      <h3 class="underline-color-h"> The Blend </h3>
+      <h5 class= "padding-bb"> Thoughts, feelings, experiences </h5>
+      <img class= "img-blend" src="assets/img/coffee_beans.jpg"><br>
+      <div>
+        {% include notes_graph.html %}
+      </div>
+    </content>
+    <side>
+      <h3 class="underline-color-h">Brews</h3>
+      <h5 class= "padding-bb"> Extracted insights </h5>
+      <img class= "img-blend" src="assets/img/coffee_brew.jpg"><br>
+      <p> <strong> Featured: </strong> </p>
+      <ul>
+      </ul>
+      <p> <strong>Recently updated: </strong></p>
+      <ul>
+        {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+        {% for note in recent_notes limit: 5 %}
+        <li>
+          {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </side>
   </div>
 </div>
 
-<br>
-<div class="home-page-grid-containers">
-  <div>
-      <img src="assets/img/coffee_beans.jpg">
-      <h2><a href="#">Blend</a></h2>
-			<h5>Mixing and matching thoughts, feelings, experiences, and ideas</h5>
-  </div>
-  <div>
-      <img src="assets/img/coffee_brew.jpg">
-      <h2><a href="#">Brew</a></h2>
-    <h5>Extracting insights from different "Blends"</h5>
-  </div>
-</div>
 
 
 
 
-
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<strong>Recently updated notes</strong>
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>

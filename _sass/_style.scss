@@ -93,6 +93,12 @@ h2 { font-family: 'Amatic SC', bold;
   text-align: center;
 }
 
+h3 { font-family: 'Amatic SC', bold;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+}
+
 h4 { font-family: 'Amatic SC', bold;
   font-weight: 500;
   font-size: 30px;
@@ -103,6 +109,19 @@ h5 { font-family: 'Amatic SC', bold;
   font-weight: 500;
   font-size: 26px;
   text-align: center;
+}
+
+content {
+  font-size: x-large;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.underline-color-h {
+  text-decoration: underline #FFB43C;
+
 }
 
 a {
@@ -151,6 +170,27 @@ nav {
   }
 }
 
+#notes-entry-container-home {
+  display: grid;
+  grid-gap: 3em;
+  grid-template-areas:
+    "side"
+    "content"
+    "side";
+
+  @media (min-width: 700px) {
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: "side content side";
+  }
+}
+
+
+#graph-wrapper-home {
+    background: #fcfcfc;
+    border-radius: 4px;
+    height: 75vh;
+  }
+
 .backlink-box {
   background: $color-box-background;
   padding: 1em;
@@ -185,6 +225,12 @@ code {
   margin: auto;
 }
 
+.line-bottom {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #FFB43C;
+  margin: auto;
+}
+
 .underline-color {
   color: #FFB43C;
   font-weight: 500px;
@@ -200,4 +246,29 @@ code {
   grid-template-columns: auto auto;
   gap: 40px;
   align-content: center;
+}
+
+.home-page-grid-containers-head {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 40px;
+  align-content: center;
+}
+
+.home-page-grid-containers-today {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 40px;
+  align-content: center;
+}
+
+
+.img-blend {
+  max-height:15vh;
+}
+
+.padding-bb {
+  padding-bottom: 5px;
+  padding-top: 0px;
+  margin: 0;
 }
