@@ -14,7 +14,7 @@ I created [[What is Mind Blend Cafe?|Mind Blend Cafe]] after really getting clea
 
 
 
-
+<br>
 <img src="/assets/img/naagma.png"/>
 
 </div>
