@@ -258,6 +258,13 @@ code {
   align-content: center;
 }
 
+.home-page-grid-containers-footer {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 40px;
+  align-content: center;
+}
+
 .home-page-grid-containers-today {
   display: grid;
   grid-template-columns: auto auto auto;
