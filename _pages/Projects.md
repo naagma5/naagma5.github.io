@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: about
 title: Projects
 permalink: /projects
 ---
 
-In progress of building this page... Come back soon!
+In process of building this page... Come back soon!
