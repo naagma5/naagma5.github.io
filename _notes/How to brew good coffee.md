@@ -24,10 +24,10 @@ TBD.
 
 
 References: 
-- https://www.youtube.com/watch?v=JrcH-4wHK9w
-- https://www.youtube.com/watch?v=_7c6_bS7QwQ&t=223s
-- https://www.youtube.com/watch?v=A2oipi1dEIw&t=136s
-- https://www.youtube.com/watch?v=ikt-X5x7yoc
+- [How to Brew Chemex Coffee](https://www.youtube.com/watch?v=JrcH-4wHK9w)
+- [Brew Guide: Chemex How To](https://www.youtube.com/watch?v=_7c6_bS7QwQ&t=223s)
+- [How to Brew - Chemex Pour Over](https://www.youtube.com/watch?v=A2oipi1dEIw&t=136s)
+- [The Chemex](https://www.youtube.com/watch?v=ikt-X5x7yoc)
 
 
 
