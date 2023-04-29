@@ -37,7 +37,7 @@ permalink: /
     <side>
         <h3 class="underline-color-h">Today</h3>
         <h5 class= "padding-bb"> Vibes </h5>
-        <img class= "img-blend" src="assets/img/today.jpg"><br>
+        <img class= "img-blend" src="assets/img/billie_desk.jpg"><br>
         <p> <strong> Ambience: </strong> </p>
         <iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/6f-vZcwjRX4"></iframe>
         <p> <strong>Playlist: </strong></p>
