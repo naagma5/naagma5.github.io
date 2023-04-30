@@ -299,3 +299,25 @@ code {
 .projects-description {
   font-size: 12px;
 }
+
+
+.norm-screen-project-view {
+  @media (max-width: 748px) {
+    display: none;
+  }
+
+  display: block;
+}
+
+
+.small-screen-project-view {
+  @media (max-width: 748px) {
+    display: block;
+  }
+  display: none;
+
+  img {
+    width: 50%;
+    height: 50%
+  }
+}
