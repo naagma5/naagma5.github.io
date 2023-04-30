@@ -4,4 +4,6 @@ title: Library
 permalink: /library
 ---
 
-In progress of building this page... Come back soon!
+🫛 Note: This page has been built in my mind and will soon be in Mind Blend :) 
+
+(AKA: In process of building this page!!!)

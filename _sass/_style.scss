@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Comic+Neue:wght@300;400&family=Didact+Gothic&family=Poppins:wght@300&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"); 
+
+
+
 
 $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
@@ -87,7 +92,7 @@ h1 { font-family: 'Amatic SC', bold;
 }  
 
 h2 { font-family: 'Amatic SC', bold;
-  font-weight: 700;
+  font-weight: 800;
   font-size: 48px;
   text-align: center;
 }
@@ -99,19 +104,19 @@ h3 { font-family: 'Amatic SC', bold;
 }
 
 h4 { font-family: 'Amatic SC', bold;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 30px;
   text-align: center;
 }
 
 h5 { font-family: 'Amatic SC', bold;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 26px;
   text-align: center;
 }
 
 h6 { font-family: 'Amatic SC', bold;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 20px;
   text-align: center;
 }
@@ -265,13 +270,13 @@ code {
   align-content: center;
 }
 
-.home-page-grid-containers-today {
+/*.col-3 {
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 40px;
   align-content: center;
 }
-
+*/
 
 .img-blend {
   max-height:15vh;
@@ -281,4 +286,16 @@ code {
   padding-bottom: 5px;
   padding-top: 0px;
   margin: 0;
+}
+
+.projects-description-h {
+  font-family: $font-family;
+  font-size: medium;
+  text-align: left;
+  font-weight: 900;
+  margin: 0%;
+}
+
+.projects-description {
+  font-size: 12px;
 }

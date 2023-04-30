@@ -15,7 +15,7 @@ permalink: /
     <div>
       <h3> Welcome to </h3>
       <h1> Mind Blend Cafe  </h1>
-      <div class="line"></div>
+      <div class="line"></div><br>
       <h5>Naagma's digital thought cafe 🌱</h5>
     </div>
     <div>
@@ -24,6 +24,8 @@ permalink: /
   </div>
 </div>
 <br>
+
+
 
 <div class="line-bottom"></div>
 
