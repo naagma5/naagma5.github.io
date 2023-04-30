@@ -37,7 +37,7 @@ permalink: /
   <br>
   <div id="notes-entry-container-home">
     <side>
-        <h3 class="underline-color-h">Today</h3>
+        <h3>Today</h3>
         <h5 class= "padding-bb"> Vibes </h5>
         <img class= "img-blend" src="assets/img/billie_desk.jpg"><br>
         <p> <strong> Ambience: </strong> </p>
@@ -47,7 +47,7 @@ permalink: /
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2e92nJZ9oYznMvGfjf5P84?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </side>
     <content>
-      <h3 class="underline-color-h"> The Blend </h3>
+      <h3> The Blend </h3>
       <h5 class= "padding-bb"> Thoughts, feelings, experiences </h5>
       <img class= "img-blend" src="assets/img/coffee_beans.jpg"><br>
       <div>
@@ -55,7 +55,7 @@ permalink: /
       </div>
     </content>
     <side>
-      <h3 class="underline-color-h">Brews</h3>
+      <h3>Brews</h3>
       <h5 class= "padding-bb"> Extracted insights </h5>
       <img class= "img-blend" src="assets/img/coffee_brew.jpg"><br>
       <p> <strong> Featured: </strong> </p>
