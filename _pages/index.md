@@ -41,7 +41,7 @@ permalink: /
         <h5 class= "padding-bb"> Vibes </h5>
         <img class= "img-blend" src="assets/img/pretty-flowers.jpeg"><br>
         <p> <strong> Ambience: </strong> </p>
-        <iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/aThryn8RNx4"></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/aThryn8RNx4"></iframe>
         <p> <strong>Playlist: </strong></p>
         <small style="font-size: 12px"> **Log into Spotify in your web browser to hear the full playlist!** </small>
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2e92nJZ9oYznMvGfjf5P84?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

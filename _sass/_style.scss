@@ -172,7 +172,7 @@ nav {
     "content"
     "side";
 
-  @media (min-width: 1000px) {
+  @media (min-width: 700px) {
     grid-template-columns: 3fr 1fr;
     grid-template-areas: "content side";
   }
@@ -186,9 +186,12 @@ nav {
     "content"
     "side";
 
-  @media (min-width: 700px) {
+  @media (min-width: 1000px) {
     grid-template-columns: 1fr 2fr 1fr;
     grid-template-areas: "side content side";
+    #iframe-height {
+      height:300;
+    }
   }
 }
 
