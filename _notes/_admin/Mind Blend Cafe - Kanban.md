@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] [[Ode to... Andrea Savage]]
 - [ ] [[Creative Act]]
 - [ ] [[Entropy (randomness)]]
+- [ ] [[Ode to... Adriene Mischler]]
 - [ ] [[Four F's]]
 
 
