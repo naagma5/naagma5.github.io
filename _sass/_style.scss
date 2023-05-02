@@ -189,9 +189,6 @@ nav {
   @media (min-width: 1000px) {
     grid-template-columns: 1fr 2fr 1fr;
     grid-template-areas: "side content side";
-    #iframe-height {
-      height:300;
-    }
   }
 }
 
