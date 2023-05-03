@@ -1,9 +1,12 @@
 ---
+title: Statistical Machine Learning - Program Design
 ---
 
 
 
-Tyring to figure out how to make sense of this project. 
+
+
+Trying to figure out how to make sense of this project. 
 
 Okay so let's put it in the framework of decision making... Say I am trying to decide if I should take a job (1) or not (0). 
 
