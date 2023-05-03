@@ -18,16 +18,16 @@ permalink: /me
 
 <h3 style="text-align: left"> ...my values: </h3><br>
 
-<div class="container-fluid">
+<div class="container-fluid norm-screen-project-view">
   <div class="row">
-  <div class="col-2">
-  </div>
+    <div class="col-2">
+    </div>
     <div class="col-1">
-      <img src="/assets/img/icons/kindness.png"/>
+      <img class="img-blend" src="/assets/img/icons/kindness.png"/>
     </div>
     <div class="col-4">
       <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4>Kindness</h4></button>
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <h4>Kindness</h4></button>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
           <p class="dropdown-item">Compassion</p>
           <p class="dropdown-item">Empathy</p>
@@ -49,11 +49,11 @@ permalink: /me
       </div>
     </div>
   </div>
-</div>
+
 
 <br><br><br><br><br>
 
-<div class="container-fluid">
+
   <div class="row">
   <div class="col-1">
       <img src="/assets/img/icons/fun.png"/>
@@ -96,6 +96,91 @@ permalink: /me
     </div>
   </div>
 </div>
+
+<!-- FOR MOBILE -->
+
+<div class="container-fluid small-screen-project-view">
+  <div class="row">
+    <div class="col-4">
+      <img class="img-blend" src="/assets/img/icons/kindness.png"/>
+    </div>
+    <div class="col">
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <h4>Kindness</h4></button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <p class="dropdown-item">Compassion</p>
+          <p class="dropdown-item">Empathy</p>
+          <p class="dropdown-item">Care</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="col-4">
+      <img class="img-blend" src="/assets/img/icons/honesty.png"/>
+    </div>
+    <div class="col">
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <h4>Honesty</h4></button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <p class="dropdown-item">Integrity</p>
+          <p class="dropdown-item">Authenticity</p>
+          <p class="dropdown-item">Vulnerability</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="col-4">
+      <img class="img-blend" src="/assets/img/icons/fun.png"/>
+    </div>
+    <div class="col">
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <h4>Fun</h4></button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <p class="dropdown-item">Playfulness</p>
+          <p class="dropdown-item">Humor</p>
+          <p class="dropdown-item">Joy</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="col-4">
+      <img class="img-blend" src="/assets/img/icons/wonder.png"/>
+    </div>
+    <div class="col">
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <h4>Wonder</h4></button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <p class="dropdown-item">Attend</p>
+          <p class="dropdown-item">Awe</p>
+          <p class="dropdown-item">Curiosity</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="col-4">
+      <img class="img-blend" src="/assets/img/icons/humility.png"/>
+    </div>
+    <div class="col">
+      <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <h4>Humility</h4></button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <p class="dropdown-item">Healthy skepticism</p>
+          <p class="dropdown-item">Gratitude</p>
+          <p class="dropdown-item">Respect</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <br><br><br>
 <div class="line-bottom"></div> <br>
