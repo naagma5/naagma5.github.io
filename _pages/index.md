@@ -7,6 +7,7 @@ permalink: /
 
 
 
+
 <div style="padding: 1em; background:rgba(254,246,232,1); border-radius: 4px;">
   <div id="notes-entry-container-home">
     <div> 

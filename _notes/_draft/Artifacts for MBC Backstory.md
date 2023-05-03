@@ -7,7 +7,7 @@
 	- Kept getting stuck...
 - Wanting to create a blog or share my musings [medium]
 - Journaling response to if I had a million or unlimited dollars what would I do?
-	- Open up a cozy coffee shop to have deep thougthful conversations about the mind and any interesting topics 
+	- Open up a cozy coffee shop to have deep thoughtful conversations about the mind and any interesting topics (cognitive club, thought cafe?)
 
 
 

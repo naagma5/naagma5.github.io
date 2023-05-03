@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Comic+Neue:wght@300;400&family=Didact+Gothic&family=Poppins:wght@300&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css");
-@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"); 
 
 
 
@@ -320,4 +319,11 @@ code {
     width: 50%;
     height: 50%
   }
+}
+
+
+.btn-secondary {
+  --bs-btn-color: #000000;
+  --bs-btn-bg: #ffb43c;
+  --bs-btn-border-color: #ffb43c;
 }

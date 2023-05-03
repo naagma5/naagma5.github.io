@@ -11,6 +11,8 @@ kanban-plugin: basic
 - [ ] [[Entropy (randomness)]]
 - [ ] [[Ode to... Adriene Mischler]]
 - [ ] [[Four F's]]
+- [ ] Go through Photos and select ones that might be useful for site
+- [ ] Go through Obsidian notes and select useful ones
 
 
 ## BLENDS 💡
