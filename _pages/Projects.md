@@ -57,9 +57,9 @@ permalink: /projects
             <div class="col-4">
                 <p class="projects-description-h"> Skills: </p>
                 <ul class="projects-description">
-                    <li>Pre-processing and recoding images of MRI scans using singular value decomposition</li>
-                    <li>Utilizing the grid search method to find the best combination of hyperparameters</li>
-                    <li>Evaluating model quality using k-fold cross-validation </li>
+                    <li>Pre-processed and recoded images of MRI scans using singular value decomposition</li>
+                    <li>Utilized the grid search method to find the best combination of hyperparameters</li>
+                    <li>Evaluated model quality using k-fold cross-validation </li>
                     <li>Julia, Python  </li>
                     <li>Peer collaboration </li>
                 </ul>
@@ -67,16 +67,16 @@ permalink: /projects
             <div class="col-4"> 
                 <p class="projects-description-h"> Skills: </p>
                 <ul class="projects-description">
-                    <li>Analyzing and critiquing a cognitive science research paper</li>
-                    <li>Facilitating a class discussion comparing the paper and theories of memory covered in the course </li>
+                    <li>Analyzed and critiqued a cognitive science research paper</li>
+                    <li>Facilitated a class discussion comparing the paper and theories of memory covered in the course </li>
                 </ul>   
             </div>
             <div class="col-4"> 
                 <p class="projects-description-h"> Skills: </p>
                 <ul class="projects-description">
-                    <li>Working with classmates to create a research plan</li>
-                    <li>Developing a user persona and Heuristics Evaluation in according with common UX Principles</li>
-                    <li>Protoyping an alternate design using Figma</li>
+                    <li>Worked with classmates to create a research plan</li>
+                    <li>Developed a user persona and Heuristics Evaluation in according with common UX Principles</li>
+                    <li>Protoyped an alternate design using Figma</li>
                 </ul>  
             </div>
         </div>
@@ -133,7 +133,7 @@ permalink: /projects
             </div>
             <div class="col-4">
                 <p class="projects-description-h"> Summary: </p>
-                <p class="projects-description">Created a presentation explain the concept of exogenous attention to peers. </p>
+                <p class="projects-description">Designed an asynchronous presenation to explain the concept of exogenous attention to peers. </p>
             </div>
         </div>
         <!-- Skills -->
@@ -141,23 +141,23 @@ permalink: /projects
             <div class="col-4">
                 <p class="projects-description-h"> Skills: </p>
                 <ul class="projects-description">
-                    <li>Analyzing critical works by technology ethicists such as W. Brian Arthur, Albert Borgmann, Paul Nightingale, Ruth Scwartz Cowan, Ursula M. Franklin, Langdon Winner, Sharon Bardzell, Laura Forlano, Helen Nissenbaum </li>
-                    <li>Evaluating the question "How to responsibly engage technologies as designers" applied to the context of Instagram</li>
+                    <li>Analyzed critical works by technology ethicists such as W. Brian Arthur, Albert Borgmann, Paul Nightingale, Ruth Scwartz Cowan, Ursula M. Franklin, Langdon Winner, Sharon Bardzell, Laura Forlano, Helen Nissenbaum </li>
+                    <li>Evaluated the question "How to responsibly engage technologies as designers" applied to the context of Instagram</li>
                 </ul>
             </div>
             <div class="col-4"> 
                 <p class="projects-description-h"> Skills: </p>
                 <ul class="projects-description">
-                    <li>Preprocessing data and recoding images for model processing </li>
-                    <li>Initializing model's weights using a separately trained supervised learning model </li>
-                    <li>Tuning the model by varying model's parameter's such as the regularization term, train-test-split and other factors </li>
+                    <li>Preprocessed data and recoded images for model processing </li>
+                    <li>Initialized model's weights using a separately trained supervised learning model </li>
+                    <li>Tuned the model by varying model's parameter's such as the regularization term, train-test-split and other factors </li>
                 </ul>   
             </div>
             <div class="col-4"> 
                 <p class="projects-description-h"> Skills: </p>
                 <ul class="projects-description">
-                    <li>Reviewing academic journal articles on attention from a multidisciplinary lens </li>
-                    <li>Distilling complex scientific information in an engaging and comprehensible manner to a general audience</li>
+                    <li>Reviewed academic journal articles on attention from a multidisciplinary lens </li>
+                    <li>Distilled complex scientific information in an engaging and comprehensible manner to a general audience</li>
                 </ul>  
             </div>
         </div>
@@ -188,9 +188,9 @@ permalink: /projects
         <p class="projects-description">Developed a logistic regression model and a multi-layer perceptron classifier network to classify MRI images with the presence of a brain tumor and those without.</p>
         <p class="projects-description-h"> Skills: </p>
         <ul class="projects-description">
-            <li>Pre-processing and recoding images of MRI scans using singular value decomposition</li>
-            <li>Utilizing the grid search method to find the best combination of hyperparameters</li>
-            <li>Evaluating model quality using k-fold cross-validation </li>
+            <li>Pre-processed and recoding images of MRI scans using singular value decomposition</li>
+            <li>Utilized the grid search method to find the best combination of hyperparameters</li>
+            <li>Evaluated model quality using k-fold cross-validation </li>
             <li>Julia, Python  </li>
             <li>Peer collaboration </li>
         </ul>
@@ -218,9 +218,9 @@ permalink: /projects
         <p class="projects-description">Collaborated with classmates to review and redesign the Offer-Up mobile app.</p>
         <p class="projects-description-h"> Skills: </p>
         <ul class="projects-description">
-            <li>Working with classmates to create a research plan</li>
-            <li>Developing a user persona and Heuristics Evaluation in according with common UX Principles</li>
-            <li>Protoyping an alternate design using Figma</li>
+            <li>Worked with classmates to create a research plan</li>
+            <li>Developed a user persona and Heuristics Evaluation in according with common UX Principles</li>
+            <li>Protoyped an alternate design using Figma</li>
         </ul>
         <p class="projects-description-h"><a class="project-description-h" href= "https://www.figma.com/proto/KqCDd9OFN3crB282De5zMF/ACN6342--Group-2--OfferUp?node-id=163-234&starting-point-node-id=163%3A234">Check out the prototype</a></p>  
     </div>
@@ -232,8 +232,8 @@ permalink: /projects
         <p class="projects-description">Developed a diagnosis of Instagram based on the theories and method discussed in one of All Tech is Human's Design & Techology Ethics <a href="https://alltechishuman.org/responsible-tech-mentorship-program">mentorship pod</a>.</p>
         <p class="projects-description-h"> Skills: </p>
         <ul class="projects-description">
-            <li>Analyzing critical works by technology ethicists such as W. Brian Arthur, Albert Borgmann, Paul Nightingale, Ruth Scwartz Cowan, Ursula M. Franklin, Langdon Winner, Sharon Bardzell, Laura Forlano, Helen Nissenbaum </li>
-            <li>Evaluating the question "How to responsibly engage technologies as designers" applied to the context of Instagram</li>
+            <li>Analyzed critical works by technology ethicists such as W. Brian Arthur, Albert Borgmann, Paul Nightingale, Ruth Scwartz Cowan, Ursula M. Franklin, Langdon Winner, Sharon Bardzell, Laura Forlano, Helen Nissenbaum </li>
+            <li>Evaluated the question "How to responsibly engage technologies as designers" applied to the context of Instagram</li>
         </ul>  
         <!-- <p class="projects-description-h"><a class="project-description-h" href= "/now">Check it out</a></p> -->
     </div>
@@ -245,9 +245,9 @@ permalink: /projects
         <p class="projects-description">Developed an unsupervised learning model from the ground up (without any machine learning models) to classify whether the model is familiar or not with the action depicted in an image.</p>
         <p class="projects-description-h"> Skills: </p>
         <ul class="projects-description">
-            <li>Preprocessing data and recoding images for model processing </li>
-            <li>Initializing model's weights using a separately trained supervised learning model </li>
-            <li>Tuning the model by varying model's parameter's such as the regularization term, train-test-split and other factors </li>
+            <li>Preprocessed data and recoding images for model processing </li>
+            <li>Initialized model's weights using a separately trained supervised learning model </li>
+            <li>Tuned the model by varying model's parameter's such as the regularization term, train-test-split and other factors </li>
         </ul>    
         <p class="projects-description-h"><a class="project-description-h" href= "https://drive.google.com/file/d/1suzx_ofZUT_AmWy3ZXXEKQiWYvCDz0z0/view?usp=sharing">Check out the paper</a></p>   
     </div>
@@ -256,11 +256,11 @@ permalink: /projects
         <h5 class="underline-color-h">Endogenous Attention</h5>
         <img src="assets/img/focus-end-attn.jpg"> <br>
         <p class="projects-description-h"> Summary: </p>
-        <p class="projects-description">Created a presentation explain the concept of exogenous attention to peers. </p>
+        <p class="projects-description">Designed an asynchronous presenation to explain the concept of exogenous attention to peers. </p>
         <p class="projects-description-h"> Skills: </p>
         <ul class="projects-description">
-            <li>Reviewing academic journal articles on attention from a multidisciplinary lens </li>
-            <li>Distilling complex scientific information in an engaging and comprehensible manner to a general audience</li>
+            <li>Reviewed academic journal articles on attention from a multidisciplinary lens </li>
+            <li>Distilled complex scientific information in an engaging and comprehensible manner to a general audience</li>
         </ul>    
         <p class="projects-description-h"><a class="project-description-h" href= "https://drive.google.com/file/d/1VVWrl9ftcOC2jdK_xS3VonGlLIJ_6zqq/view?usp=sharing">Check out the presentation</a></p>
     </div>
