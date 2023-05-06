@@ -40,7 +40,7 @@ permalink: /
     <side>
         <h3>Today</h3>
         <h5 class= "padding-bb"> Vibes </h5>
-        <img class= "img-blend" src="assets/img/IMG_2364.jpg"><br>
+        <img class= "img-blend" src="assets/img/IMG_2364.jpeg"><br>
         <p> <strong> Ambience: </strong> </p>
         <iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/RkCD8A9Lol4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <p> <strong>Playlist: </strong></p>
