@@ -61,6 +61,8 @@ permalink: /
       <img class= "img-blend" src="assets/img/coffee_brew.jpg"><br>
       <p> <strong> Featured: </strong> </p>
       <ul>
+      <li><a class="internal-link" href="/mind-blend-cafe-the-backstory">Mind Blend Cafe - The Backstory</a></li>
+      <li><a class="internal-link" href="/what-is-mind-blend-cafe?">What is Mind Blend Cafe?</a></li>
       </ul>
       <p> <strong>Recently updated: </strong></p>
       <ul>
