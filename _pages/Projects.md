@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects
 ---
 
-🌱 Note: This page is blooming (still in draft mode)!
-
 
 # Projects
 <br>
