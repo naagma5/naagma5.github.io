@@ -1,6 +1,7 @@
 ---
 title: Book Notes - Four Thousand Weeks
 ---
+#book 
 
 These are my notes for the book: [Four Thousand Weeks](https://en.wikipedia.org/wiki/Four_Thousand_Weeks:_Time_Management_for_Mortals). 
 
