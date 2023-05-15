@@ -22,3 +22,7 @@ assets/img/today_archive/
 
 # Excalidraw
 node_modules
+index.js
+package-lock.json
+package.json
+
