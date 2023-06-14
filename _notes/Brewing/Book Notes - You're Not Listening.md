@@ -1,8 +1,6 @@
 ---
 title: Book Notes - You're Not Listening
 ---
-#book
-
 Book: You're Not Listening: What You're Missing and Why It Matters 
 by Kate Murphy
 
@@ -74,8 +72,78 @@ To really listen is to be moved physically, chemically, emotionally, and intelle
 
 "... how you talk to yourself affects how you hear other people."
 
-"...studies have found that the voice-sensitive areas of the auditory cortex are activated more when reading direct versus indirect speech - that is, your brain reacts as if it's heaering an actual person speak when you read 'He said, I'm in love with her,' but not so much if you read 'He said he was in love with her.'"
+"...studies have found that the voice-sensitive areas of the auditory cortex are activated more when reading direct versus indirect speech - that is, your brain reacts as if it's hearing an actual person speak when you read 'He said, I'm in love with her,' but not so much if you read 'He said he was in love with her.'"
 
+"Your answer to someone else's deepest difficulties merely reflects what you would do if you were that person, which you are not."
+
+I look back with enormous gratitude for an experience of being deeply listened to, but more than that, having this rare opportunity to listen to myself.
+	*Think about how Alayna said that she figured out she wanted to reject the job and gave herself permission to make the decision she actually wanted to make.*
+
+When peopel tell you how to feel or what you should do, I think that most of us know that it makes us defensive
+	*Like when I tell Danny to do something and he gets all mean vs. when I give him hints. Does this mean [[passive aggressiveness]] might actually have a place?*
+
+It's hard to ask open and honest questions because most people ask questions that are really recommendations or judgements in disguise.
+
+Open and honest questioning is essential for basic understanding. It allows people to tell their stories, express their realities, and find the resources within themselves to figure out how they feel about a problem and decide on next steps. 
+
+Mothers just listened providing no assistance or critque --> 
+	*Compassionate nonjudgemental listening*
+	*Maybe listening doesn't need to be under the guise of helping. Helping someone solve. aproblem. Language "Wow that sounds really tough. Ugh - tell me more/you'll figure it out though, you are so smart./"*
+
+36 Questions that Lead to Love
+
+mondegreen - mishearings 
+
+Smartphones degrade sound quality for connectivity... Leading to poor quality and difficulty hearing or distorted hearing. 
+
+Yoou feel busier trying to keep up, but it just keeps you from getting anything done.
+
+Reasearch suggests that after people listen regularly to faster-paced speech, they have a great difficulty maintaining their attention when addressed by someone who is talking normaly - sort of like the feeling you get when you come off an expressway and have to go through a school zone.
+
+When you hear people's stories, you tend to want to do right by them.
+
+It's important to pay attention to what words conceal and silences reveal.
+
+(Religion) try to listen to some higher order or, at least, to their best selves... Silence opens the mind to the inspirations of the Holy Spirt. 
+
+People aren't used to being listened to... so when someone listens, they end up telling you stuff they don't even tell their parents or SOs.
+
+Gossip as a form of establishing and maintaining alliances...
+
+The value of info is inversely related to its availability and its triviality.
+
+When both parties in a conversation are focused and engaged, it's like a fantastic dance where the two of you are listening intently to each other regardless of who is speaking. Not only are your brain waves in sync (Uri Hasson) - but research shows you also start to physically and tonally align. You mirror each other's speaking style, body posture, gazes, and gestures.
+	*This is the kind of experience I want brainstorming to be... Collaborative mind dancing!!! *
+
+Their self-centered conversational style most often speaks to deep insecurities, anxieties, or blind spots. Sometimes just by listening, they begin to listen, too.... 
+	*Sometimes I feel like... when I finally do get listened to, it's deeply uncomfortable like I am wasting their time. Like I'm going to fuck it up? Or like if I don't say the things that have been on my mind I'm going to miss out on this rare opportunity that someone is listening to me for once instead of me them...*
+
+
+👀 Second Date Update
+
+Part of being a good listener is knowing your limits and setting boundaries.... Not listening because you don't have the intellectual or emotional energy to listen at that moment makes you human. 
+
+When you can't get on someone's wavelength
+
+You are inviting someone into your consciousness
+	Saying to someone "I've been thinking about what you said."
+
+Hearing how other people deal with struggles helps you figure out how to deal with your own problems, either by adopting their coping strategies or doing the oppositie when it's not working for them. Listening helps you see we are dealing with similar issues - wanting to be loved, looking for purpose, and fearing the end. You learn you are not alone.
+
+A good exercise is to think about the poeple in your life that 
+
+
+
+---
+##### how can I cultivate more listening?
+I need to listen to myself. 
+I need to work on turning off the predicitve machine in my brain 
+Or the curator to predict
+Just listen. Pay attention. 
+
+
+
+----
 
 Check it out: 
 - The Pleasure of Finding Things Out

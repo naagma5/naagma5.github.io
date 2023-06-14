@@ -17,7 +17,7 @@ Revisiting former journals, I realized I had made an attempt at something simila
 
 After a couple days, the name Mind Blend clicked for me and I was in love. I felt it captured the image of different ideas from different people coming together to develop new insights - with a coffeeshop tone!
 
-In parallel, I was also thinking about my identity as a designer and someone headed into the field of UX/HCI in responsible tech. The questions I found myself most interested in centered on [[How do you design for choice?|choice/autonomy]], [[How do you design for trust?|trust]], lo-fi tech, effect of technologies on our brains, and ontology. 
+In parallel, I was also thinking about my identity as a designer and someone headed into the field of UX/HCI in responsible tech. The questions I found myself most interested in centered on [[How do you design for choice?|choice/autonomy]], [[How do you design for trust?|trust]], [[When tech sucks|lo-fi tech]], effect of technologies on our brains, and ontology. 
 
 I wanted to combine the cozy coffee shop vibe with these questions I was interested in. After some iterations of designing a cafe like environment digitally and ways to promote engaged collaboration and idea evolution, I stumbled upon a community of people curating [digital gardens](https://maggieappleton.com/garden-history). 
 

@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] [[Four F's]]
 - [ ] Go through Photos and select ones that might be useful for site
 - [ ] Go through Obsidian notes and select useful ones
+- [ ] [[Self help junkie]]
 
 
 ## BLENDS 💡

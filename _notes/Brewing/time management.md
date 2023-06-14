@@ -1,28 +1,13 @@
 ---
-title: Book Notes - Four Thousand Weeks
+title: Time management
 ---
-#book 
 
-These are my notes for the book: [Four Thousand Weeks](https://en.wikipedia.org/wiki/Four_Thousand_Weeks:_Time_Management_for_Mortals). 
+I have talked about this topic before (see [[Parkinson's Law]] and [[Book Notes - Four Thousand Weeks]]) but man is this something that is on my mind. A lot. 
 
-#### THEMES/TAKEAWAYS: 
-"You have to accept that there will always be too much to do; that you can't avoid tough choices or make the world run at your preferred speed; that no experience, least of all close relationships with other human beings, can ever be guaranteed in advance to turn out painlessly and well - and that from a cosmic viewpoint, when it's all over, it won't have counted for very much anyway."
+I was rereading some of my old notes to declutter my digital space. I found this gem of an article on time. This quote in particular stuck out to me.
+>“Modern man thinks he loses something – time – when he does not do things quickly. Yet he does not know what to do with the time he gains, except kill it.” - Erich Fromm
 
-- All these productivity tips are ironic because the more productive you get, the more optimized you expect yourself to be. Reminds me of the [Hedonic treadmill](https://www.psychologytoday.com/us/basics/hedonic-treadmill)
-- You **have to make choices** about what you want to do with the limited amount of time you have. There is no magic way that can optimize your time, in contrast a lot of optimization leads to further distortions of time. 
-- Real truth? You live in REALITY - with limitations and uncertainty. Rather than your fantasy. Keeping yourself in search of shaping reality into your fantasy is going to leave you feeling neurotic and constantly unsatisfied with your choices.
-- Find hobbies - things you do for sake of just doing them because you like them. You don't even have to be good at them. 
-- Practice surrendering, accepting your lack of power and control. This can lead to a beautiful appreciation for life and connection. 
-	- Also having challenges and things to face keeps life interesting. 
-	- Stay with discomfort.
-- Your life is happening NOW. What are ways you're future-oriented? How can you pay attention to what's happening NOW?
-	- Can you focus on ONE THING? Get ONE project done? Then move on to next? 
-- What are some ways you can fall into the rhythm of others in your tribe? Synchronization, harmony. 
-- COSMIC INSIGNIFICANCE THERAPY: The universe does not care, what you do doesn't matter that much... HUMILITY. 
-	- So why do we feel like we must be great? And the pressure to be great? 
+From multiple different angles, I can intellectually understand how idle time is good for me. Yet, I struggle so much with it. The minute I get some alone time, I think well... WHAT IS ON MY LIST?! And then realize I don't have the mental energy to do it and end up flittering to this discomfort with the time and then complaining about not having enough time. Yikes. 
 
+I liked this article a lot. It has a lot of thought-provoking quotes and reflections on time. [How To Spend Time Without Fearing You've Wasted It. Part 2.](https://waysofthinking.co.uk/2022/01/25/time-part-2/)
 
-#### Good questions to ask myself...  
-1. Will this help me evolve?
-2. What would I do if there is no perfect/no optimized/best way to live life?
-	- Risk feeling - out of control / like you can't do everything / like you can't be good at everything

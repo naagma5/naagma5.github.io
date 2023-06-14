@@ -32,7 +32,7 @@ I think that's it for now :)
 ##### 🙋🏽‍♀️ Questions on my mind 🤔 : 
 - [[How do you design for choice?]]
 - [[How do you design for trust?]]
-- In the culture today where every other headline is populated with talk of generative AI, how are people finding value on less technically advanced tools (ie. notebooks - Bullet Journal)?
+- In the culture today where every other headline is populated with talk of generative AI, how are people finding value on less technically advanced tools (ie. notebooks - Bullet Journal)? ([[When tech sucks]])
 - What might be the effect on culture and our brains if generative AI stays behind the hype? 
 
 

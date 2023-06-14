@@ -13,7 +13,7 @@ Anyway, it has me reflecting on my time and how as I grow, I want to make sure I
 
 **How do you figure out what's important to you? How do you figure out what to do when multiple important things are happening in your life around the same time?** 
 
-I'm thinking of Oliver Burkeman's book [[time management|Four Thousand Weeks - Time Management for Mortals]].
+I'm thinking of Oliver Burkeman's book [[Book Notes - Four Thousand Weeks|Four Thousand Weeks - Time Management for Mortals]].
 
 "You have to accept that there will always be too much to do; that you can't avoid tough choices or make the world run at your preferred speed; that no experience, least of all close relationships with other human beings, can ever be guaranteed in advance to turn out painlessly and well - and that from a cosmic viewpoint, when it's all over, it won't have counted for very much anyway."
 

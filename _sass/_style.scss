@@ -341,16 +341,67 @@ code {
 
 
 /* Excalidraw */
-.custom-styles .excalidraw {
-  --color-primary: #fcc6d9;
-  --color-primary-darker: #f783ac;
-  --color-primary-darkest: #e64980;
-  --color-primary-light: #f2a9c4;
+.container {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .button-wrapper button {
+    z-index: 1;
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    padding: 5px;
+    color: #000000;
+    background-color: #edf2ff;
+    border-color: #edf2ff;
+  }
+  
+  .excalidraw .App-menu_top .buttonList {
+    display: flex;
+  }
+  
+  .excalidraw-wrapper {
+    height: 800px;
+    margin: 50px;
+    margin-top: 10px;
+    position: relative;
+    .dropdown-menu{
+      display: block;
+    }
+    .excalidraw {
+      --color-primary: #d2fcc6;
+      --color-primary-darker: #499238;
+      --color-primary-darkest: #254f14;
+      --color-primary-light: #c8edcb;
+    }
+    .excalidraw.theme--dark {
+      --color-primary: #d2fcc6;
+      --color-primary-darker: #499238;
+      --color-primary-darkest: #254f14;
+      --color-primary-light: #c8edcb;
+    }
+  }
+  
+  :root[dir="ltr"]
+    .excalidraw
+    .layer-ui__wrapper
+    .zen-mode-transition.App-menu_bottom--transition-left {
+    transform: none;
+  }
+  
+ 
+
+  .popup-bg-color {
+    background-color: rgba(254,246,232,1);
+  }
+
+.button-wrapper {
+  label {
+    margin-right: 5px;
+  }
+  input {
+    margin: 5px;
+  }
 }
 
-.custom-styles .excalidraw.theme--dark {
-  --color-primary: #d494aa;
-  --color-primary-darker: #d64c7e;
-  --color-primary-darkest: #e86e99;
-  --color-primary-light: #dcbec9;
-}
