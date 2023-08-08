@@ -31,15 +31,22 @@
   }
 
   #graph-wrapper {
-    background: rgba(254,246,232,1);
+    background: rgba(254,246,232,1); - the beigey color
+    /* background: #FFC5AB; */
     border-radius: 4px;
-    height: auto;
+    height:auto;
+    /* background-image:url('assets/img/just_brain.svg'); 
+    background-repeat: no-repeat; 
+    background-size: 50%; 
+    background-position: center;
+    height:60%; */
   }
   
   #graph-wrapper > svg {
-    max-width: 100%;
-    display: block;
+    display: 100%;
   }
+
+
 </style>
 
 <div id="graph-wrapper">
@@ -204,7 +211,7 @@
               .distance(70)
           )
           .force("center", d3.forceCenter(width / 2, height / 2))
-          .force("collision", d3.forceCollide().radius(80))
+          .force("collision", d3.forceCollide().radius(70))
           .stop();
 
         const g = svg.append("g");

@@ -2,6 +2,7 @@
 title: Tools for thought
 ---
 
+----
 
 My recent obsession has been investigating "Tools for Thought". A comprehensive article is by Maggie Appleton [Tools for Thought as Cultural Practices, not Computational Objects](https://maggieappleton.com/tools-for-thought). Her thesis is expanding "tools for thought" association beyond computerized digital tools. This is something interesting that has been on my mind. 
 
@@ -16,6 +17,7 @@ Here's a summary of some of examples Maggie comes up with:
 - Numbers
 - Poetry
 - Socratic method
+- Questions in general
 - Scientific method
 
 With being a fan of [bullet journaling](https://bulletjournal.com/), I have been so fascinated by how so many people turn to it in an age of large language networks and AI and virtual universes. 
@@ -36,6 +38,7 @@ My own list:
 - [Diffuse mode](https://www.youtube.com/watch?v=dzjsk5e7srI)
 - Mindsets 
 - Journaling 
+- Writing
 - Talking to a friend
 - Sticky notes
 - Putting up a calm ambience
@@ -48,4 +51,12 @@ Imagine if I called my yoga practice as a tool for thought. I normally don't thi
 
 I'm curious to see how I might fare if I was to take these tools/practices more seriously. 
 
+----
 
+*Jul-24-2023*
+
+>"Writing by hand is thinking on paper.
+>Thoughts grow into words, sentences and pictures.
+>Memories become stories. Ideas are transformed into projects. 
+>Notes inspire insight. We write and understand, 
+>learn, see and **think - with the hand.** " - Leuchtturm1917 (**Denken mit der Hand**)
