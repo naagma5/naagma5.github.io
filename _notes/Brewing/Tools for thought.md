@@ -3,7 +3,29 @@ title: Tools for thought
 ---
 
 ----
+###### Saturday March 16, 2024 
+Reflection from [How to Think Better](https://nesslabs.com/how-to-think-better) from Ness Labs. 
+- "Thinking is a skill which can be practiced just as any other skill."
+- To be a "better" thinker: 
+	1. Think about thinking. 
+	2. Be aware of cognitive biases.
+	3. Avoid linear thinking and logical fallacies. 
+	4. Study useful mental models.
+	5. Practice emotional agility. 
 
+Ness Labs goes into more detail on different frameworks to adopts. But I am thinking about my own frameworks. What helps me think "better"? 
+
+- Having a space to download my thoughts and play with them ie. journal, whiteboard, etc. 
+- Discussing my thoughts with others to identify gaps in my thinking or alternate perspectives or lens
+- **Diffuse mode**, going on a walk or having space to ponder 
+- Movement of some sort - run/jog/walk (outside ideally!) or yoga
+- Having a nap of some sort or sleeping
+
+If you had talked to me a couple years ago, I would list out a bunch of productivity tools. Maggie Appleton reflects on this pointing out that a bunch of thought leaders in this space stem from a computer programming background. The mental models for tools for thought then had a "distinctly computer-oriented, male, American, middle class flavour." (https://maggieappleton.com/tools-for-thought). 
+
+Since my All Tech is Human Mentorship Pod with design lead, John Cain, I have really reshaped my thinking to integrate practices and rituals into my definition of technology. 
+
+------
 My recent obsession has been investigating "Tools for Thought". A comprehensive article is by Maggie Appleton [Tools for Thought as Cultural Practices, not Computational Objects](https://maggieappleton.com/tools-for-thought). Her thesis is expanding "tools for thought" association beyond computerized digital tools. This is something interesting that has been on my mind. 
 
 To be honest, it has stemmed from my obsession with productivity tools (see [[When tech sucks]]). I've been getting rather frustrated with myself for not optimizing these tools enough. Perhaps also frustrated with the tools themselves... I have this fantasy that with the right tools and practices, I'll have incredible thoughts and ideas and be able to execute on them. I'm struggling with the grind! 
