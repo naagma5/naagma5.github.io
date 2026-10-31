@@ -54,12 +54,7 @@ permalink: /
       <div>
         {% include notes_graph.html %}
       </div>
-    </content>
-    <side>
-      <h3>Brews</h3>
-      <h5 class= "padding-bb"> Extracted insights </h5>
-      <img class= "img-blend" src="assets/img/coffee_brew.jpg"><br>
-      <p> <strong> Featured: </strong> </p>
+            <p> <strong> Start here: </strong> </p>
       <ul>
       <li><a class="internal-link" href="/mind-blend-cafe-the-backstory">Mind Blend Cafe - The Backstory</a></li>
       <li><a class="internal-link" href="/what-is-mind-blend-cafe?">What is Mind Blend Cafe?</a></li>
@@ -73,6 +68,14 @@ permalink: /
         </li>
         {% endfor %}
       </ul>
+    </content>
+    <side>
+      <h3>Brews</h3>
+      <h5 class= "padding-bb"> Extracted insights </h5>
+      <img class= "img-blend" src="assets/img/coffee_brew.jpg"><br>
+      <p> Ideas that have finished brewing, served fresh on Substack. </p>
+      <p> <a href="{{ site.substack_url }}" target="_blank"> <strong> Read the Brews → </strong> </a> </p>
+      <iframe src="{{ site.substack_url }}/embed" width="100%" height="320" style="border:1px solid #e8d5b7; border-radius:8px; background:white;" frameborder="0" scrolling="no"></iframe>
     </side>
   </div>
 </div>
