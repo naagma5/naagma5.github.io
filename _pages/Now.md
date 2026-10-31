@@ -12,15 +12,18 @@ permalink: /now
 
 <br>
 
-It's almost March! I'm having a pretty lovely start to the year. Much better than the end of 2023... 
+It is Halloween 2026! Yes it's been 3 years since I've updated this... Don't judge! 
 
-I started running this year. My goal was to run a 5k without stopping and I'm happy to say I have done it! I had obviously heard of benefits but sticking with this fitness routine has drastically improved my quality of life. I hope to maintain it :) 
+After some months of not feeling the best, I'm feeling awesome now! As one of my friends said, I'm definitely hobby-maxing now. I started a Yoga Teacher Training which has gone beyond my wildest expectations. I feel so inspired and connected with all that I'm learning and the community I get to be with during this time. In addition, I started taking some beginner improv classes and it is so fun! My teacher repeatedly talks about the power of improv on neuroplasticity and creativity. The goal is to get my prefrontal cortext to take a break :) 
 
-We're moving back to the Northeast! I am sad to say goodbye to Dallas. So many good friends and memories here. One more month to soak it up here.
+I am reading my prior updates and I'm pleased to say that I have been able to keep up the running. I even have run 10k a couple times (genuinely only twice haha!) and it's wonderful to have that be a thing I do for the sake of my mental health.
 
-I am also SO excited to be closer to my family and friends!! And NATURE. 
+We've officially been in the Northeast now for a couple years... And we're married - woohoo! My heart has been full being near our families and dear friends. 
 
-I fell off maintaining this site near the end of last year. Which is a bummer because I really do feel excited about this concept and growing this site as my personal digital garden. I am getting caught up in a perfectionistic mindset. 2024 me - let's break out of that!! 
+
+"I am also SO excited to be closer to my family and friends!! And NATURE." - Last Update. So cool to see. Now I get to be a mile from the beach and see all my favorite people all the time!
+
+I intend to return to this site and project with how full my cup has been feeling. I really believe in it and want to work on it. Grace when I can't, but trying to simplify things so I'm not so afraid and can overcome the perfectionistic habits. Stay tuned :)
 
 
 
@@ -28,7 +31,7 @@ I fell off maintaining this site near the end of last year. Which is a bummer be
 
 <br>
 
-#### TL;DR: Moving to NYC/Southern CT soon. Finding my fitness flow is helping me find flow in other aspects of my life. Soaking up time in Dallas until the move :)  
+#### TL;DR: Life is great. Heart is full. Hobby-maxxxxxing ;) 
 
 <br>
 <br>
@@ -36,9 +39,13 @@ I fell off maintaining this site near the end of last year. Which is a bummer be
 <hr style="border-top: 4px dashed #ffb43c;">
 
 ##### 🙋🏽‍♀️ Questions on my mind 🤔 : 
-- Why does your mind feel better when you workout?
-- Why do we not want to say we've used AI when it's prevalent everywhere? 
-- How can I connect back with this site and grow my "thought garden"?
+- How can you design AI to support responsible use? (Decision Support UX)
+- What is the impact of AI on the mind, particularly mental health and education?
+- How can you enable people early in their career to sharpen their skills as AI does the work often attained through these early career opportunities?
+
+Some not so AI based questions:
+- How do you build community?
+- What is the impact of improv on creativity?
 
 
 
