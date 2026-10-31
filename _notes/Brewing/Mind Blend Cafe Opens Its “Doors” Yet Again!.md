@@ -1,10 +1,10 @@
 ---
-title: Mind Blend Cafe Opens It’s “Doors” Yet Again!
+title: Mind Blend Cafe Opens Its “Doors” Yet Again!
 ---
 
 
 The past couple of years have been difficult. [Mind Blend Cafe](https://mindblendcafe.com/), my digital garden cafe has run a thread through my mind. I knew I would be able to return to it but didn’t know when. I won’t make a big hubbub about it but it’s currently almost 4am on Halloween, I’m meant to run a 5k in about 5 hours off of two hours of sleep. So naturally, I decided to listen to a talk on AI. I'd spotted this talk in my former library’s newsletter as one that was coming up and immediately signed up. Dartmouth Dialogues “The program brought the community together for a thoughtful conversation about the opportunities and challenges presented by the rapidly evolving field of artificial intelligence featuring Sal Khan, founder of Khan Academy and journalist Jacob Ward.” -
-[Dartmouth Dialogues: Artificial Intelligence with Sal Khan and Jacob Ward](https://www.youtube.com/@gwlibrary) I ended up getting sick and couldn't attend in person which I was so disappointed about but I'm so glad I finally got around to listening to the conversation.
+[Dartmouth Dialogues: Artificial Intelligence with Sal Khan](https://youtu.be/BRp-F1uIdhM) I ended up getting sick and couldn't attend in person which I was so disappointed about but I'm so glad I finally got around to listening to the conversation.
   
 
 At 3am, I was hoping to listen to something that would be interesting enough that wouldn't leave me wanting to tear my AirPods out of my ear but would still allow me to fall into deep sleep. This conversation did not have this effect on me. In fact, instead of quieting my mind, the dialogue on the promise and perils of AI totally opened my brain floodgates. Sal Khan particularly holds a dear space in my heart after saving me in high school with all his YouTube videos. I have the utmost respect for him and he was a major factor in me becoming a cognitive scientist. I chose my undergraduate program with the hope of working in educational technology to contribute to students' supportive learning experience with the power of emerging technologies. Now, that wasn’t quite my career path... but it was very interesting and honestly refreshing to hear about the ways he’s been leveraging AI to build something like [Khanmigo](https://www.khanmigo.ai/). 
