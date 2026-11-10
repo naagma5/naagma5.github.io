@@ -27,3 +27,10 @@ package-lock.json
 package.json
 
 .DS_Store
+
+# Local Ruby installs
+vendor/
+.bundle/
+
+# Claude Code personal settings
+.claude/settings.local.json

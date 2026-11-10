@@ -1,0 +1,24 @@
+{
+  "name": "Mind Blend Cafe",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
+  },
+  "remoteUser": "vscode",
+  "forwardPorts": [4000],
+  "postCreateCommand": "sudo chown -R vscode:vscode /home/vscode/.claude && bundle install",
+  "mounts": [
+    "source=claude-code-config-${devcontainerId},target=/home/vscode/.claude,type=volume"
+  ],
+    "containerEnv": {
+    "CLAUDE_CONFIG_DIR": "/home/vscode/.claude"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "rubyLsp.rubyVersionManager": { "identifier": "none" }
+      }
+    }
+  }
+}

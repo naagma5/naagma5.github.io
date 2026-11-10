@@ -74,7 +74,17 @@ permalink: /
       <h5 class= "padding-bb"> Extracted insights </h5>
       <img class= "img-blend" src="assets/img/coffee_brew.jpg"><br>
       <p> Ideas that have finished brewing, served fresh on Substack. </p>
-      <p> <a href="{{ site.substack_url }}" target="_blank"> <strong> Read the Brews → </strong> </a> </p>
+      {% if site.data.substack_posts and site.data.substack_posts.size > 0 %}
+      <p> <strong> Latest Brews: </strong> </p>
+      <ul>
+        {% for post in site.data.substack_posts limit: 3 %}
+        <li>
+          {{ post.date | date: "%Y-%m-%d" }} — <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      <p> <a href="{{ site.substack_url }}" target="_blank"> <strong> Read all the Brews → </strong> </a> </p>
       <iframe src="{{ site.substack_url }}/embed" width="100%" height="320" style="border:1px solid #e8d5b7; border-radius:8px; background:white;" frameborder="0" scrolling="no"></iframe>
     </side>
   </div>
