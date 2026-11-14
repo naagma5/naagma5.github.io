@@ -227,8 +227,8 @@ permalink: /me
     <ul>
       <li>Learning to surf</li>
       <li> Be a cognitive science expert</li>
-      <li>Run a 5k</li>
-      <li>Learn how to make excellent coffee</li>
+      <li>Run a 5k (done!)</li>
+      <li>Learn how to make excellent coffee (if I do say so myself)</li>
       <li>Write a fiction book on cognitive science</li>
     </ul>
     </div>
@@ -236,7 +236,7 @@ permalink: /me
       <ul>
       <li>Build a website (yay! It's finally happening)  ;) </li>
       <li>Create a cognitive science club</li>
-      <li>Learn Indian history</li>
+      <li>Learn Indian history (happening through my yoga teacher training!)</li>
       <li>Be financially sustainable (if not independent)</li>
       <li>Read all the books on my bookshelf... </li>
     </ul>

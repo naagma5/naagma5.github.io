@@ -34,3 +34,13 @@ Help! I still don’t understand WHY this is a vritti. How does this in and of i
 I suppose when you are seeking understanding, then that results in you thinking but in that case it isn’t the correct understanding that is causing the churn, it’s the seeking... right? 
 
 I will phone a friend on this one and report back. 
+
+---
+My friend graciously offered her thoughts on this Sutra. Think of flow, she said. Are you thinking of anything when you are in that flow state? Is there any kind of effortful mental activity? Effortful probably isn't the right word here. The process of cognition is different when you are in a flow state. [[Flow]] a psychological state where you are completely focused on a task. 
+
+I also went back this morning and looked at The Heart of Yoga book by TKV Desikachar. Interestingly enough, instead of saying "correct understanding" as the translation, he translates it as "comprehension". That resonates so much better with me. Comprehension is an act of cognition, period. It's the act of engaging with your mental faculties to understand something. That is a super awesome and helpful tool we have as humans but it can also lead to *fluctuations of the mind*. If the mind is churning with the act of comprehension, this can be a barrier of going deeper into a yogic state. 
+
+The other thing that is interesting to consider is that it's less about stopping these vrittis (well maybe it is about having them come to a halt) but the way in which you do this isn't to actively stop. That is not an action you take. Instead you change your relationship to them so it's about you becoming more of the observer, the witness of these cognitive activities. Instead of being super attached to them, you can start to recognize "Ah - comprehension." 
+
+One of my teachers in my program, [Khushi Malhotra](https://khushyoga.com/author/khushyoga/) also shared there are gross and subtle vrittis. Regardless of the intensity, any vritti can disturb the mind. Disturbance is not in and of itself bad, I think. However, in the pursuing of samadhi, disturbance is not conducive.  
+
